@@ -5,7 +5,7 @@ subtitle: Two brothers that discovered how fun underwater hunting can be
 ---
 
 
-![Calvin and Oscar Hawkes spearfishing in Monterey](img/two_brothers.jpg){: .center-image}
+![Calvin and Oscar Hawkes spearfishing in Monterey](img/two_brothers_v2.jpg){: .center-image}
 
 We are Calvin & Oscar Hawkes from [Monterey, CA](https://goo.gl/maps/Hh4mug5jk4S2). Oscar is 3 years younger, but 5 inches taller, so Calvin thinks it's a wash.
 
