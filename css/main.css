@@ -194,7 +194,7 @@ img {
 
 @media only screen and (min-width: 768px) {
   .navbar-custom .avatar-container {
-    width: 100px;
+    width: 140px;
     margin-top: -50px;
   }
 
@@ -476,6 +476,7 @@ footer .theme-by {
 .intro-header .post-heading h1 {
   margin-top: 0;
   font-size: 35px;
+  text-shadow: 1px 1px 2px black;
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
@@ -514,7 +515,7 @@ footer .theme-by {
 }
 @media only screen and (min-width: 768px) {
   .intro-header {
-    margin-top: 130px;
+    margin-top: 170px;
   }
   .intro-header.big-img {
     margin-top: 91px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
